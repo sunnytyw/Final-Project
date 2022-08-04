@@ -1,30 +1,31 @@
 ---
 title: "SquirrelDistribution"
-author: "Jacky Bai"
+author: "Peiyuan Li, Xuyang Liu, Yuwei Tang, Jacky Bai"
 date: "2022-08-04"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo=T,message=F,warning=F)
+library(tidyverse)
+library(lubridate)
 ```
 
-## R Markdown
+Project Title: Squirrel Distribution
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Background: 
+The dataset collected by the Squirrel Census contains squirrels data for each of the 3023 sightings in the New York Central Park in 2018, and demonstrates its findings to the public in 2019. This dataset provides us with location coordinates, primary and secondary fur colors, sighting time and other important data.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+Introduction: 
+Squirrels at New York City central park are becoming a popular scene among citizens and travelers. Our project will present a solid analysis of squirrel data collected at NYC central park and provide distribution data and graphs of squirrels of different fur colors.
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+Analysis: 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Graph: 
+
+
+Discussion: 

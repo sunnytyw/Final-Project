@@ -14,7 +14,7 @@ library(lubridate)
 Project Title: Squirrel Distribution
 
 Background: 
-The dataset collected by the Squirrel Census contains squirrels data for each of the 3023 sightings in the New York Central Park in 2018, and demonstrates its findings to the public in 2019. This dataset provides us with location coordinates, primary and secondary fur colors, sighting time and other important data.
+The dataset collected by the Squirrel Census contains squirrel data for each of the 3023 sightings in the New York Central Park in 2018, and demonstrates its findings to the public in 2019. This dataset provides us with location coordinates, primary and secondary fur colors, sighting time and other important data.
 
 
 Introduction: 
